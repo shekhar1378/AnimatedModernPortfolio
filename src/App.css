@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'NeueMontreal-Regular'; 
+  src: url('./fonts/NeueMontreal-Regular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'NeueMontreal-Bold'; 
+  src: url('./fonts/NeueMontreal-Bold.otf') format('truetype');
+}
+@font-face {
+  font-family: 'NeueMontreal-Light'; 
+  src: url('./fonts/NeueMontreal-Light.otf') format('truetype');
+}
+@font-face {
+  font-family: 'NeueMontreal-LightItalic'; 
+  src: url('./fonts/NeueMontreal-LightItalic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'NeueMontreal-Italic'; 
+  src: url('./fonts/NeueMontreal-Italic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'NeueMontreal-Medium'; 
+  src: url('./fonts/NeueMontreal-Medium.otf') format('truetype');
+}
